@@ -1,2 +1,5 @@
 esteemo_hardware/output
 esteemo_hardware/esteemo-backups
+esteemo_hardware/Board2Pdf
+esteemo_hardware/fp-info-cache
+esteemo_hardware/bom2grouped_csv_jlcpcb.xsl
